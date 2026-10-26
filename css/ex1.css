@@ -47,15 +47,15 @@ article img{
 
 article a{
 	display: inline-block;
-	color:#d42f2f;
+	color:#2f48d4;
 	background: #ffffff;
 	text-decoration: none;
 	padding-bottom: 20px;
 }
 
 article a:hover{
-	color:#ffffff;
-	background: #fbe34b;
+	color:#d63c31;
+	background: #ffe957;
 }
 
 article a:active{
